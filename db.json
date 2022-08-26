@@ -1,0 +1,110 @@
+{
+    "doctors": [
+      {
+        "id": 1,
+        "name": "Shakir Hussain",
+        "email": "shakir@gmail.com",
+        "password": "shakir444"
+        
+      }
+    ],
+    "patients": [
+      {
+        "patientID":1,
+        "name": "Pappu Nerle",
+        "imgage":" https://imgs.search.brave.com/aYo1FwYd9S5J4ss8dA2B1m5yWG0IMavdUYCNW9gfx9U/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYXBw/eS1wYXRpZW50LTIz/MDQ1OTY3LmpwZw",
+        "gender": "male",
+        "age": "54",
+        "medicines": {
+          "abc": 2,
+          "xyz": 3
+        }
+      },
+      {
+        "patientID":2,
+        "name": "alish Abbas",
+        "imgage":" https://imgs.search.brave.com/aYo1FwYd9S5J4ss8dA2B1m5yWG0IMavdUYCNW9gfx9U/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYXBw/eS1wYXRpZW50LTIz/MDQ1OTY3LmpwZw",
+        "gender": "male",
+        "age": "64",
+        "medicines": {
+          "abc": 2,
+          "xyz+": 3
+        }
+      },
+      {
+        "patientID":3,
+        "name": "Aman Bhosle",
+        "imgage":" https://imgs.search.brave.com/aYo1FwYd9S5J4ss8dA2B1m5yWG0IMavdUYCNW9gfx9U/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYXBw/eS1wYXRpZW50LTIz/MDQ1OTY3LmpwZw",
+        "gender": "male",
+        "age": "44",
+        "medicines": {
+          "medicinename":"ramipril","quantity":13
+        }
+      },
+      {
+        "patientID":4,
+        "name": "Vijay Dinanath Chauhan",
+        "imgage":" https://imgs.search.brave.com/aYo1FwYd9S5J4ss8dA2B1m5yWG0IMavdUYCNW9gfx9U/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYXBw/eS1wYXRpZW50LTIz/MDQ1OTY3LmpwZw",
+        "gender": "male",
+        "age": "74",
+        "medicines": 
+          {"medicinename":"rasagiline","quantity":8}
+        
+      },
+      {
+        "patientID":5,
+        "name": "Bakhtawar",
+        "imgage":" https://imgs.search.brave.com/aYo1FwYd9S5J4ss8dA2B1m5yWG0IMavdUYCNW9gfx9U/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYXBw/eS1wYXRpZW50LTIz/MDQ1OTY3LmpwZw",
+        "gender": "male",
+        "age": "84",
+        "medicines": 
+          {"medicinename":"rasagiline","quantity":8}
+        
+      },
+      {
+        "patientID":6,
+        "name": "Captain Zattack",
+        "imgage":" https://imgs.search.brave.com/aYo1FwYd9S5J4ss8dA2B1m5yWG0IMavdUYCNW9gfx9U/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYXBw/eS1wYXRpZW50LTIz/MDQ1OTY3LmpwZw",
+        "gender": "male",
+        "age": "54",
+        "medicines": 
+          {"medicinename":"rasagiline","quantity":8}
+        
+      },
+      {
+        "patientID":7,
+        "name": "Tiger",
+        "imgage":" https://imgs.search.brave.com/aYo1FwYd9S5J4ss8dA2B1m5yWG0IMavdUYCNW9gfx9U/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYXBw/eS1wYXRpZW50LTIz/MDQ1OTY3LmpwZw",
+        "gender": "male",
+        "age": "60",
+        "medicines": {"medicinename":"rasagiline","quantity":8}
+      },
+      {
+        "patientID":8,
+        "name": "Dinanath Chauhan",
+        "imgage":" https://imgs.search.brave.com/aYo1FwYd9S5J4ss8dA2B1m5yWG0IMavdUYCNW9gfx9U/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYXBw/eS1wYXRpZW50LTIz/MDQ1OTY3LmpwZw",
+        "gender": "male",
+        "age": "94",
+        "medicines": {"medicinename":"rasagiline","quantity":8}
+      },
+      {
+        "patientID":9,
+        "name": "Krishnan Iyer MA",
+        "imgage":" https://imgs.search.brave.com/aYo1FwYd9S5J4ss8dA2B1m5yWG0IMavdUYCNW9gfx9U/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYXBw/eS1wYXRpZW50LTIz/MDQ1OTY3LmpwZw",
+        "gender": "male",
+        "age": "54",
+        "medicines":{"medicinename":"rasagiline","quantity":8}
+      },
+      {
+        "patientID":10,
+        "name": "Sabir",
+        "gender": "male",
+        "imgage":" https://imgs.search.brave.com/aYo1FwYd9S5J4ss8dA2B1m5yWG0IMavdUYCNW9gfx9U/rs:fit:800:533:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYXBw/eS1wYXRpZW50LTIz/MDQ1OTY3LmpwZw",
+        "age": "54",
+        "medicines": {"medicinename":"rasagiline","quantity":8}
+      }
+  
+    ]
+  
+  }
+  
